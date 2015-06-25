@@ -4,21 +4,20 @@ document.addEventListener("deviceready",function(){
 	$('#btnmenu').on('tap',function(){
 	navigator.vibrate(1000);
 });//tap a btnvibrar
-$('#btnuno').on('tap',function(){
+$('#concepto').on('tap',function(){
 	navigator.vibrate(1000);
 });//tap a btnvibrar
-$('#btndos').on('tap',function(){
+$('#constituyentes').on('tap',function(){
 	navigator.vibrate(1000);
 });//tap a btnvibrar
-$('#btntres').on('tap',function(){
+$('#problemas').on('tap',function(){
 	navigator.vibrate(1000);
 });//tap a btnvibrar
-$('#btncuatro').on('tap',function(){
+$('#consejos').on('tap',function(){
 	navigator.vibrate(1000);
 });//tap a btnvibrar
-$('#btncinco').on('tap',function(){
-	navigator.vibrate(1000);
+
 });//tap a btnvibrar
 }); 
-});
+
 
